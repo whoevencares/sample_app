@@ -8,6 +8,7 @@ group :development do
   # Use sqlite3 as the database for Active Record
   gem 'sqlite3'
   gem 'rspec-rails'
+  gem 'annotate'
 end
 
 group :assets do
